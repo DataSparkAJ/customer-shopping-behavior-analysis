@@ -98,7 +98,7 @@ An interactive dashboard was developed to visualize:
 
 - `data_cleaning.ipynb` → Python data preparation  
 - `business_analysis_queries.sql` → SQL queries  
-- `Retail_Dashboard.pbix` → Power BI dashboard file  
+- `Customer_Behaviour_Dashboard.pbix` → Power BI dashboard file  
 - `Customer_Shopping_Behavior_Report.pdf` → Full project report  
 - `Customer_Shopping_Behavior_Presentation.pdf` → Presentation slides  
 - `cleaned_retail_data.csv` → Cleaned dataset  
