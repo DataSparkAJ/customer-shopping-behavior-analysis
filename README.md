@@ -78,7 +78,9 @@ An interactive dashboard was developed to visualize:
 - Subscription Distribution  
 - Top 5 Products by Revenue  
 
-📷 *Dashboard preview included in repository.*
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
