@@ -117,6 +117,10 @@ This project showcases practical data analytics skills, including:
 
 ---
 
+📊 Presentation
+
+The project presentation slides were designed using Gamma AI and exported as a PDF format. All data analysis, SQL queries, dashboard development, and business insights were independently completed by me.
+
 ## 👤 Author
 
 Aspiring Data Analyst  
